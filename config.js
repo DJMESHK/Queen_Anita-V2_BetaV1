@@ -48,7 +48,7 @@ module.exports = {
   HANDLERS: process.env.PREFIX || ".",
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
-  caption: process.env.CAPTION || "MESH_TECH_V1,
+  caption: process.env.CAPTION || "MESH_TECH_V1",
   author: process.env.PACK_AUTHER || "MESH_TECH_V1",
   packname: process.env.PACK_NAME || "M E S H",
   botname: process.env.BOT_NAME || "MESH_TECH_V1",
